@@ -1,5 +1,5 @@
 {
-    "items": [
+    "items": {[
         {
             "id": 1,
             "description": "test one",
@@ -15,5 +15,5 @@
             "description": "test 3",
             "validate": "12/12/1212"
         }
-    ]
+    ]}
 }
