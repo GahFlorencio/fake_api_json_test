@@ -1,19 +1,8 @@
 {
-    "items": [
+    "items":
         {
             "id": 1,
             "description": "test one",
             "validate": "12/12/1212"
-        },
-        {
-            "id": 2,
-            "description": "test two",
-            "validate": "12/12/1212"
-        },
-        {
-            "id": 3,
-            "description": "test 3",
-            "validate": "12/12/1212"
         }
-    ]
 }
