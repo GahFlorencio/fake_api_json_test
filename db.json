@@ -1,8 +1,9 @@
 {
-    "items":
+    "items":[
         {
             "id": 1,
             "description": "test one",
             "validate": "12/12/1212"
         }
+    ]
 }
