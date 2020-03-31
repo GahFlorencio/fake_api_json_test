@@ -1,19 +1,91 @@
 {
-    "items":[
-        {
-            "id": 1,
-            "description": "test one",
-            "validate": "12/12/1212"
-        },
-        {
-            "id": 2,
-            "description": "test one",
-            "validate": "12/12/1212"
-        },
-        {
-            "id": 3,
-            "description": "test one",
-            "validate": "12/12/1212"
-        }
-    ]
+	"items": [
+		{
+			"id": 1,
+			"description": "test one",
+			"validate": "12/12/1212"
+		},
+		{
+			"id": 2,
+			"description": "test one",
+			"validate": "12/12/1212"
+		},
+		{
+			"id": 3,
+			"description": "test one",
+			"validate": "12/12/1212"
+		}
+	],
+	"news": [
+		{
+			"featured": {
+				"title": "Titulo",
+				"slug": "titulo-01",
+				"alt": "alt da imagem",
+				"img": "https://s3-movel-imagens.s3-sa-east-1.amazonaws.com/posts/9d4ezsYgAhNCzjiQC1Kvc3bR5scUfb.jpg",
+				"short": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.",
+				"full": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil."
+			},
+			"list": [
+				{
+					"title": "Titulo",
+					"slug": "titulo-02",
+					"alt": "alt da imagem",
+					"img": "https://s3-movel-imagens.s3-sa-east-1.amazonaws.com/posts/9d4ezsYgAhNCzjiQC1Kvc3bR5scUfb.jpg",
+					"short": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.",
+					"full": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil."
+				},
+				{
+					"title": "Titulo",
+					"slug": "titulo-03",
+					"alt": "alt da imagem",
+					"img": "https://s3-movel-imagens.s3-sa-east-1.amazonaws.com/posts/9d4ezsYgAhNCzjiQC1Kvc3bR5scUfb.jpg",
+					"short": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.",
+					"full": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil."
+				},
+				{
+					"title": "Titulo",
+					"slug": "titulo-04",
+					"alt": "alt da imagem",
+					"img": "https://s3-movel-imagens.s3-sa-east-1.amazonaws.com/posts/9d4ezsYgAhNCzjiQC1Kvc3bR5scUfb.jpg",
+					"short": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.",
+					"full": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil."
+				}
+			]
+		}
+	],
+	"news-list": [
+		{
+			"title": "Titulo",
+			"slug": "titulo-01",
+			"alt": "alt da imagem",
+			"img": "https://s3-movel-imagens.s3-sa-east-1.amazonaws.com/posts/9d4ezsYgAhNCzjiQC1Kvc3bR5scUfb.jpg",
+			"short": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.",
+			"full": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil."
+		},
+		{
+			"title": "Titulo",
+			"slug": "titulo-02",
+			"alt": "alt da imagem",
+			"img": "https://s3-movel-imagens.s3-sa-east-1.amazonaws.com/posts/9d4ezsYgAhNCzjiQC1Kvc3bR5scUfb.jpg",
+			"short": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.",
+			"full": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil."
+		},
+		{
+			"title": "Titulo",
+			"slug": "titulo-03",
+			"alt": "alt da imagem",
+			"img": "https://s3-movel-imagens.s3-sa-east-1.amazonaws.com/posts/9d4ezsYgAhNCzjiQC1Kvc3bR5scUfb.jpg",
+			"short": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.",
+			"full": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil."
+		},
+		{
+			"title": "Titulo",
+			"slug": "titulo-04",
+			"alt": "alt da imagem",
+			"img": "https://s3-movel-imagens.s3-sa-east-1.amazonaws.com/posts/9d4ezsYgAhNCzjiQC1Kvc3bR5scUfb.jpg",
+			"short": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.",
+			"full": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium hihil."
+		}
+	]
 }
