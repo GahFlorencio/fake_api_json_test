@@ -16,9 +16,10 @@
 			"validate": "12/12/1212"
 		}
 	],
-	"news": [
+	"news": 
 		{
 			"featured": {
+				"id":1,
 				"title": "Titulo",
 				"slug": "titulo-01",
 				"alt": "alt da imagem",
@@ -59,7 +60,7 @@
 				"prev": null
 			}
 		}
-	],
+	,
 	"news-list": [
 		{
 			"title": "Titulo",
