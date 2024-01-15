@@ -40,6 +40,30 @@
       "icon": ["fab", "laravel"],
       "name": "Laravel",
       "lvl": 9
+    },
+    {
+      "id": 3,
+      "icon": ["fab", "js"],
+      "name": "Js",
+      "lvl": 8
+    },
+    {
+      "id": 4,
+      "icon": ["fab", "docker"],
+      "name": "Docker",
+      "lvl": 8
+    },
+    {
+      "id": 5,
+      "icon": ["fab", "aws"],
+      "name": "AWS",
+      "lvl": 6
+    },
+    {
+      "id": 6,
+      "icon": ["fab", "microsoft"],
+      "name": ".NET",
+      "lvl": 6
     }
   ]
 }
